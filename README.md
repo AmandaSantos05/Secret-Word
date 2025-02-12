@@ -6,7 +6,7 @@ Secret Word é um jogo de adivinhação de palavras.
 Contém dicas da palavra a ser adivinhada, quantidade de tentativas, pontuação e lista com as letras já utilizadas.
 
 ### Tela inicial
-<img src="../secretword/src/assets/img1.png" alt="Texto Alternativo">
+<img src="./src/assets/img1.png" alt="Texto Alternativo">
 
 ### Início do jogo
 <img src="../secretword/src/assets/img2.png" alt="Texto Alternativo">
