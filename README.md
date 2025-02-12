@@ -9,10 +9,10 @@ Contém dicas da palavra a ser adivinhada, quantidade de tentativas, pontuação
 <img src="./src/assets/img1.png" alt="Texto Alternativo">
 
 ### Início do jogo
-<img src="../secretword/src/assets/img2.png" alt="Texto Alternativo">
+<img src="./src/assets/img2.png" alt="Texto Alternativo">
 
 ### Adivinhando a palavra
-<img src="../secretword/src/assets/img3.png" alt="Texto Alternativo">
+<img src="./src/assets/img3.png" alt="Texto Alternativo">
 
 ### Fim de jogo
-<img src="../secretword/src/assets/img4.png" alt="Texto Alternativo">
+<img src="./src/assets/img4.png" alt="Texto Alternativo">
